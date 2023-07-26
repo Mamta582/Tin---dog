@@ -1,0 +1,98 @@
+body{
+    font-family: Montserrat;
+}
+#title{
+    background-color: lightcoral;
+    color: white;
+    text-align: center;
+    
+}
+.container{
+    padding: 3% 15%;
+
+}
+
+h1{
+    font-family:"Montserrat";
+    font-size: 7rem;
+    line-height: 2.5;
+}
+
+.navbar-brand{
+    font-size: large;
+}
+@media (max-width:1028px){
+    .title-image{
+        position: static;
+    }
+}
+    
+
+.title-image{
+    transform:rotate(20deg);
+    
+    right: 30%;
+    
+} 
+.fa-solid{
+    margin-top: 20px;
+}
+  
+    
+
+#features{
+    padding : 7% 15%;
+    
+
+
+    
+}
+.feature-box{
+    text-align: center;
+    padding: 5%
+
+}
+h3{
+    font-family: montserrat;
+}
+p{
+    color: grey;
+}
+
+.testi{
+    background-color: lightcoral;
+    text-align: center;
+    color: white;
+    padding: 7% 15%;
+}
+h2{
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.press-box{
+    background-color: lightcoral;
+    text-align: center;
+    padding-bottom: 3%;
+    
+}
+.img-box{
+    margin-right: 30px;
+}
+#site{
+    background-color: lightcoral;
+    text-align: center;
+    color: white;
+    height: 350px;
+    
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon{
+    margin: 20px 10px;
+}
+.btn{
+    margin: 20px 20px;
+}
